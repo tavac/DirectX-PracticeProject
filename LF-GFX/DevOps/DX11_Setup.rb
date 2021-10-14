@@ -1,0 +1,1 @@
+system("cd ../ & mkdir Build & cd Build & cmake ..\\LF-GFXDX11 & cmake --build .")
